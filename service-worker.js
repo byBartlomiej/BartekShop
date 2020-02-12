@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bartekshop/precache-manifest.6cca2ca0b890ffea65a30e44b688ea31.js"
+  "/bartekshop/precache-manifest.17aed4be2f95bf6d55c9bbd5a1076926.js"
 );
 
 self.addEventListener('message', (event) => {

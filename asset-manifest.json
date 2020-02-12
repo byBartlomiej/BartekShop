@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bartekshop/static/css/main.5353e1de.chunk.css",
-    "main.js": "/bartekshop/static/js/main.fa353b39.chunk.js",
-    "main.js.map": "/bartekshop/static/js/main.fa353b39.chunk.js.map",
+    "main.js": "/bartekshop/static/js/main.de139910.chunk.js",
+    "main.js.map": "/bartekshop/static/js/main.de139910.chunk.js.map",
     "runtime-main.js": "/bartekshop/static/js/runtime-main.29219bab.js",
     "runtime-main.js.map": "/bartekshop/static/js/runtime-main.29219bab.js.map",
     "static/css/2.47e06e2e.chunk.css": "/bartekshop/static/css/2.47e06e2e.chunk.css",
     "static/js/2.00fdc151.chunk.js": "/bartekshop/static/js/2.00fdc151.chunk.js",
     "static/js/2.00fdc151.chunk.js.map": "/bartekshop/static/js/2.00fdc151.chunk.js.map",
     "index.html": "/bartekshop/index.html",
-    "precache-manifest.6cca2ca0b890ffea65a30e44b688ea31.js": "/bartekshop/precache-manifest.6cca2ca0b890ffea65a30e44b688ea31.js",
+    "precache-manifest.17aed4be2f95bf6d55c9bbd5a1076926.js": "/bartekshop/precache-manifest.17aed4be2f95bf6d55c9bbd5a1076926.js",
     "service-worker.js": "/bartekshop/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/bartekshop/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.5353e1de.chunk.css.map": "/bartekshop/static/css/main.5353e1de.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.00fdc151.chunk.js",
     "static/css/main.5353e1de.chunk.css",
-    "static/js/main.fa353b39.chunk.js"
+    "static/js/main.de139910.chunk.js"
   ]
 }

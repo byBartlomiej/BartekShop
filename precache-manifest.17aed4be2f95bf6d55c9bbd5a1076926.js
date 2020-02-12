@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f83d4a4b009ae55da6a947f50925e4d",
+    "revision": "de4801cdfeca2a63542598cb33d02711",
     "url": "/bartekshop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bartekshop/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "9e1fecdfb07a1c65eb52",
+    "revision": "0d53ebe2f8a4eafb98a5",
     "url": "/bartekshop/static/css/main.5353e1de.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bartekshop/static/js/2.00fdc151.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e1fecdfb07a1c65eb52",
-    "url": "/bartekshop/static/js/main.fa353b39.chunk.js"
+    "revision": "0d53ebe2f8a4eafb98a5",
+    "url": "/bartekshop/static/js/main.de139910.chunk.js"
   },
   {
     "revision": "13996fbebfdd5e7eb16d",
