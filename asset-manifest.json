@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/bartekshop/static/css/main.a21deed5.chunk.css",
-    "main.js": "/bartekshop/static/js/main.b693dafc.chunk.js",
-    "main.js.map": "/bartekshop/static/js/main.b693dafc.chunk.js.map",
+    "main.js": "/bartekshop/static/js/main.1a967e9b.chunk.js",
+    "main.js.map": "/bartekshop/static/js/main.1a967e9b.chunk.js.map",
     "runtime-main.js": "/bartekshop/static/js/runtime-main.29219bab.js",
     "runtime-main.js.map": "/bartekshop/static/js/runtime-main.29219bab.js.map",
     "static/css/2.47e06e2e.chunk.css": "/bartekshop/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.00fdc151.chunk.js": "/bartekshop/static/js/2.00fdc151.chunk.js",
-    "static/js/2.00fdc151.chunk.js.map": "/bartekshop/static/js/2.00fdc151.chunk.js.map",
+    "static/js/2.2c1954c9.chunk.js": "/bartekshop/static/js/2.2c1954c9.chunk.js",
+    "static/js/2.2c1954c9.chunk.js.map": "/bartekshop/static/js/2.2c1954c9.chunk.js.map",
     "index.html": "/bartekshop/index.html",
-    "precache-manifest.c1a1600f4cbbee1e4968811ccc55917d.js": "/bartekshop/precache-manifest.c1a1600f4cbbee1e4968811ccc55917d.js",
+    "precache-manifest.2ac84e73c10b0076980c7d675950cb32.js": "/bartekshop/precache-manifest.2ac84e73c10b0076980c7d675950cb32.js",
     "service-worker.js": "/bartekshop/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/bartekshop/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.a21deed5.chunk.css.map": "/bartekshop/static/css/main.a21deed5.chunk.css.map",
-    "static/js/2.00fdc151.chunk.js.LICENSE.txt": "/bartekshop/static/js/2.00fdc151.chunk.js.LICENSE.txt",
+    "static/js/2.2c1954c9.chunk.js.LICENSE.txt": "/bartekshop/static/js/2.2c1954c9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/bartekshop/static/media/services.e0ebf3f0.jpg",
     "static/media/bazylia.jpg": "/bartekshop/static/media/bazylia.50100195.jpg",
     "static/media/brokul.jpg": "/bartekshop/static/media/brokul.ec31484c.jpg",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.29219bab.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.00fdc151.chunk.js",
+    "static/js/2.2c1954c9.chunk.js",
     "static/css/main.a21deed5.chunk.css",
-    "static/js/main.b693dafc.chunk.js"
+    "static/js/main.1a967e9b.chunk.js"
   ]
 }
