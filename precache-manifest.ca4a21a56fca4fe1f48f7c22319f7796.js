@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "701399f4d1491bdcaa8083ed927e9c23",
+    "revision": "739a567d2d7a182fb410d778059f4818",
     "url": "/bartekshop/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bartekshop/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "26011efa3cb947d2a5a2",
-    "url": "/bartekshop/static/css/main.a21deed5.chunk.css"
+    "revision": "f575f496e6b274320914",
+    "url": "/bartekshop/static/css/main.353fa9ee.chunk.css"
   },
   {
     "revision": "3cd43e55cc59b4eef04c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bartekshop/static/js/2.2c1954c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26011efa3cb947d2a5a2",
-    "url": "/bartekshop/static/js/main.1a967e9b.chunk.js"
+    "revision": "f575f496e6b274320914",
+    "url": "/bartekshop/static/js/main.f10c2bcf.chunk.js"
   },
   {
     "revision": "13996fbebfdd5e7eb16d",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "017400755342c739153a065108f8b359",
     "url": "/bartekshop/static/media/about.01740075.jpg"
+  },
+  {
+    "revision": "25b35f14f7b050a9d7e0be2df1a4b02f",
+    "url": "/bartekshop/static/media/about500.25b35f14.jpg"
+  },
+  {
+    "revision": "06b35afc030441a9adba2010a55ebad0",
+    "url": "/bartekshop/static/media/about800.06b35afc.jpg"
   },
   {
     "revision": "50100195cc58de235157b136d6a0f2a8",
@@ -42,6 +50,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "369ec7b19929f53aeb2ccfc72830b12e",
     "url": "/bartekshop/static/media/contact.369ec7b1.jpg"
+  },
+  {
+    "revision": "747a90ff4752f496f8ef4f9eaec442f0",
+    "url": "/bartekshop/static/media/contact500.747a90ff.jpg"
+  },
+  {
+    "revision": "c437ba821cf606e540a66515ca17ba6d",
+    "url": "/bartekshop/static/media/contact800.c437ba82.jpg"
   },
   {
     "revision": "a7f9000ec3816c7593d8f702854f0960",
@@ -58,6 +74,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fed69c4ab452e6a7e6a876d153aa88df",
     "url": "/bartekshop/static/media/home.fed69c4a.jpg"
+  },
+  {
+    "revision": "b82bf34f46175a24989b7f3cee9ad76d",
+    "url": "/bartekshop/static/media/home500.b82bf34f.jpg"
+  },
+  {
+    "revision": "4e61fd4ed3e09317f8d2a422021afc0b",
+    "url": "/bartekshop/static/media/home800.4e61fd4e.jpg"
   },
   {
     "revision": "1d041799ff8de7c25875bb5fb623629b",
@@ -82,5 +106,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e0ebf3f0dfe8f12e26906f751d928130",
     "url": "/bartekshop/static/media/services.e0ebf3f0.jpg"
+  },
+  {
+    "revision": "77785d8eea54b61e56e5a133ac789189",
+    "url": "/bartekshop/static/media/services500.77785d8e.jpg"
+  },
+  {
+    "revision": "26c0ea95cea45f5a4f9bebb99b80018b",
+    "url": "/bartekshop/static/media/services800.26c0ea95.jpg"
   }
 ]);
