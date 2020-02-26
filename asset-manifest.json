@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bartekshop/static/css/main.353fa9ee.chunk.css",
-    "main.js": "/bartekshop/static/js/main.f10c2bcf.chunk.js",
-    "main.js.map": "/bartekshop/static/js/main.f10c2bcf.chunk.js.map",
+    "main.css": "/bartekshop/static/css/main.1c7f95e3.chunk.css",
+    "main.js": "/bartekshop/static/js/main.6a99a30b.chunk.js",
+    "main.js.map": "/bartekshop/static/js/main.6a99a30b.chunk.js.map",
     "runtime-main.js": "/bartekshop/static/js/runtime-main.29219bab.js",
     "runtime-main.js.map": "/bartekshop/static/js/runtime-main.29219bab.js.map",
     "static/css/2.47e06e2e.chunk.css": "/bartekshop/static/css/2.47e06e2e.chunk.css",
     "static/js/2.2c1954c9.chunk.js": "/bartekshop/static/js/2.2c1954c9.chunk.js",
     "static/js/2.2c1954c9.chunk.js.map": "/bartekshop/static/js/2.2c1954c9.chunk.js.map",
     "index.html": "/bartekshop/index.html",
-    "precache-manifest.ca4a21a56fca4fe1f48f7c22319f7796.js": "/bartekshop/precache-manifest.ca4a21a56fca4fe1f48f7c22319f7796.js",
+    "precache-manifest.aa65d590718c94bb120807ae5c943b3e.js": "/bartekshop/precache-manifest.aa65d590718c94bb120807ae5c943b3e.js",
     "service-worker.js": "/bartekshop/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/bartekshop/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.353fa9ee.chunk.css.map": "/bartekshop/static/css/main.353fa9ee.chunk.css.map",
+    "static/css/main.1c7f95e3.chunk.css.map": "/bartekshop/static/css/main.1c7f95e3.chunk.css.map",
     "static/js/2.2c1954c9.chunk.js.LICENSE.txt": "/bartekshop/static/js/2.2c1954c9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/bartekshop/static/media/services800.26c0ea95.jpg",
     "static/media/bazylia.jpg": "/bartekshop/static/media/bazylia.50100195.jpg",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.29219bab.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.2c1954c9.chunk.js",
-    "static/css/main.353fa9ee.chunk.css",
-    "static/js/main.f10c2bcf.chunk.js"
+    "static/css/main.1c7f95e3.chunk.css",
+    "static/js/main.6a99a30b.chunk.js"
   ]
 }
